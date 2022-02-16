@@ -3,15 +3,18 @@
 
 <suite name="Alibaba Automation" parallel="false">
     <parameter name="useCloudEnv" value="false"></parameter>
-    <parameter name="os" value="windows"/>
-    <parameter name="browserName" value="chrome"/>
+    <parameter name="cloudEnvName" value="browserstack"></parameter>
+    <parameter name="os" value="windows"></parameter>
+    <parameter name="os_version" value="98"></parameter>
+    <parameter name="browserName" value="chrome"></parameter>
+    <parameter name="browserVersion" value="98"></parameter>
     <parameter name="url" value="https://www.alibaba.com/"></parameter>
 
     <test name="Alibaba test">
         <classes>
-            <class name="us.piit.AppTest">
+<!--            <class name="us.piit.AppTest"></class>-->
+            <class name="us.piit.search.SearchSingleElement"></class>
 
-            </class>
         </classes>
     </test>
 </suite>
