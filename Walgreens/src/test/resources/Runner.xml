@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="walgreens Automation" parallel="false">
+    <parameter name="useCloudEnv" value="false"></parameter>
+    <parameter name="cloudEnvName" value="browserstack"></parameter>
+    <parameter name="os" value="windows"></parameter>
+    <parameter name="os_version" value="98"></parameter>
+    <parameter name="browserName" value="chrome"></parameter>
+    <parameter name="browserVersion" value="98"></parameter>
+    <parameter name="url" value="https://www.walgreens.com/"></parameter>
+
+    <test name="Walgreens test">
+        <classes>
+
+<!--            <class name="us.piit.signup.TestCreateAccount"></class>-->
+<!--            <class name="us.piit.login.TestLoginWithWrongCredentials"></class>-->
+<!--            <class name="us.piit.login.TestLoginWithCorrectCredentials"></class>-->
+<!--            <class name="us.piit.logout.TestLogOut"></class>-->
+<!--            <class name="us.piit.searchproducts.TestSeachTopSellerItem"></class>-->
+<!--            <class name="us.piit.cart.TestAddingProductToCart"></class>-->
+<!--            <class name="us.piit.cart.TestRemoveProductFromCart"></class>-->
+<!--            <class name="us.piit.vacinneoptions.TestVaccineScheduling"></class>-->
+<!--            <class name="us.piit.profile.TestUpdatPersonalInfo"></class>-->
+<!--            <class name="us.piit.coupons.TestCouponsOptions"></class>-->
+<!--            <class name="us.piit.chat.TestPharmacyChat"></class>-->
+<!--            <class name="us.piit.payment.TestAddingWrongPaymentMethod"></class>-->
+<!--            <class name="us.piit.health.TestHealthServices"></class>-->
+<!--            <class name="us.piit.menu.TestPetSuppliesInShopProducts"></class>-->
+            <class name="us.piit.menu.TestBeautySuppliesInShopProducts"></class>
+<!--            <class name="us.piit.health.TestHealthServices"></class>-->
+<!--            <class name="us.piit.health.TestHealthServices"></class>-->
+<!--            <class name="us.piit.health.TestHealthServices"></class>-->
+<!--            <class name="us.piit.health.TestHealthServices"></class>-->
+<!--            <class name="us.piit.health.TestHealthServices"></class>-->
+
+
+
+
+        </classes>
+    </test>
+</suite>
