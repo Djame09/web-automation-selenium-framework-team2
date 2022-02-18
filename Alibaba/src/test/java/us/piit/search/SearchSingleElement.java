@@ -7,11 +7,12 @@ import org.testng.annotations.Test;
 import us.piit.HomePage;
 
 public class SearchSingleElement extends CommonAPI {
+
     @Test
 
     public void searchelement() {
-        HomePage homePage2 = PageFactory.initElements(driver, HomePage.class);
-        homePage2.searchelements("monitor");
+        HomePage homePage = PageFactory.initElements(driver, HomePage.class);
+        homePage.searchelements("monitor");
         Assert.assertEquals(getTitle(),"Monitor-Monitor Manufacturers, Suppliers and Exporters on Alibaba.comTouch Screen Monitors");
     }
 }

@@ -12,8 +12,33 @@
 
     <test name="Alibaba test">
         <classes>
-<!--            <class name="us.piit.AppTest"></class>-->
-            <class name="us.piit.search.SearchSingleElement"></class>
+
+<!--            <class name="us.piit.search.SearchSingleElement"></class>-->
+<!--            <class name="us.piit.search.SearchMultiElement"></class>-->
+<!--            <class name="us.piit.loging.LogInWithWrongInfo"></class>-->
+<!--            <class name="us.piit.loging.LogInWithRightCredentials"></class>-->
+<!--            <class name="us.piit.switchtab.SwitchTabAlibaba"></class>-->
+<!--            <class name="us.piit.addtocard.AddToShoppingCard"></class>-->
+<!--            <class name="us.piit.bathromlist.BathroomProductList"></class>-->
+<!--            <class name="us.piit.message.WriteMessage"></class>-->
+<!--            <class name="us.piit.scrolldownto.ScrollDownToNewArrivals"></class>-->
+<!--            <class name="us.piit.buyercentral.BuyerCentralList"></class>-->
+<!--            <class name="us.piit.changelanguage.selectlanguage"></class>-->
+<!--            <class name="us.piit.sport.healthelements"></class>-->
+<!--            <class name="us.piit.globalorigin.GlobalOriginSources"></class>-->
+<!--            <class name="us.piit.apparellist.ApparelList"></class>-->
+<!--            <class name="us.piit.countrylist.CountrySelection"></class>-->
+<!--            <class name="us.piit.checkbox.CheckBox"></class>-->
+<!--            <class name="us.piit.addtocompare.CheckCompareBox"></class>-->
+<!--            <class name="us.piit.sendrequest.SendRequestitems"></class>-->
+<!--            <class name="us.piit.facebooklink.FacebookIconClick"></class>-->
+
+
+
+
+            
+
+
 
         </classes>
     </test>
