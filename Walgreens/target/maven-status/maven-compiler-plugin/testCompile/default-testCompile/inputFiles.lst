@@ -1,1 +1,6 @@
-C:\Users\Julian\IdeaProjects\web-automation-selenium-framework-team2\Walgreens\src\test\java\us\piit\AppTest.java
+C:\Users\19176\IdeaProjects\web-automation-selenium-framework-team2\Walgreens\src\test\java\us\piit\logout\TestLogOut.java
+C:\Users\19176\IdeaProjects\web-automation-selenium-framework-team2\Walgreens\src\test\java\us\piit\searchproducts\TestSeachTopSellerItem.java
+C:\Users\19176\IdeaProjects\web-automation-selenium-framework-team2\Walgreens\src\test\java\us\piit\login\TestLoginWithCorrectCredentials.java
+C:\Users\19176\IdeaProjects\web-automation-selenium-framework-team2\Walgreens\src\test\java\us\piit\cart\TestAddingProductToCart.java
+C:\Users\19176\IdeaProjects\web-automation-selenium-framework-team2\Walgreens\src\test\java\us\piit\login\TestLoginWithWrongCredentials.java
+C:\Users\19176\IdeaProjects\web-automation-selenium-framework-team2\Walgreens\src\test\java\us\piit\signup\TestCreateAccount.java
