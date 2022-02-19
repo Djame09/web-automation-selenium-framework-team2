@@ -27,12 +27,12 @@
 <!--            <class name="us.piit.payment.TestAddingWrongPaymentMethod"></class>-->
 <!--            <class name="us.piit.health.TestHealthServices"></class>-->
 <!--            <class name="us.piit.menu.TestPetSuppliesInShopProducts"></class>-->
-            <class name="us.piit.menu.TestBeautySuppliesInShopProducts"></class>
-<!--            <class name="us.piit.health.TestHealthServices"></class>-->
-<!--            <class name="us.piit.health.TestHealthServices"></class>-->
-<!--            <class name="us.piit.health.TestHealthServices"></class>-->
-<!--            <class name="us.piit.health.TestHealthServices"></class>-->
-<!--            <class name="us.piit.health.TestHealthServices"></class>-->
+<!--            <class name="us.piit.menu.TestBeautySuppliesInShopProducts"></class>-->
+            <class name="us.piit.career.TestSigningUpForJobAlerts"></class>
+<!--            <class name="us.piit.menu.TestMedicinesInShopProducts"></class>-->
+<!--            <class name="us.piit.menu.TestVitaminesInShopProduct"></class>-->
+<!--            <class name="us.piit.menu.TestHomeHealthCareInShopProducts"></class>-->
+<!--            <class name="us.piit.menu.TestHomeGoodsInShopProducts"></class>-->
 
 
 
