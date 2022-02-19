@@ -1,7 +1,4 @@
 package us.piit;
 
-
-public class AppTest 
-{
-
+public class AppTest {
 }
