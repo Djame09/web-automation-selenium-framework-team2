@@ -13,26 +13,26 @@
     <test name="Walgreens test">
         <classes>
 
-<!--            <class name="us.piit.signup.TestCreateAccount"></class>-->
-<!--            <class name="us.piit.login.TestLoginWithWrongCredentials"></class>-->
-<!--            <class name="us.piit.login.TestLoginWithCorrectCredentials"></class>-->
-<!--            <class name="us.piit.logout.TestLogOut"></class>-->
-<!--            <class name="us.piit.searchproducts.TestSeachTopSellerItem"></class>-->
-<!--            <class name="us.piit.cart.TestAddingProductToCart"></class>-->
-<!--            <class name="us.piit.cart.TestRemoveProductFromCart"></class>-->
-<!--            <class name="us.piit.vacinneoptions.TestVaccineScheduling"></class>-->
-<!--            <class name="us.piit.profile.TestUpdatPersonalInfo"></class>-->
-<!--            <class name="us.piit.coupons.TestCouponsOptions"></class>-->
-<!--            <class name="us.piit.chat.TestPharmacyChat"></class>-->
-<!--            <class name="us.piit.payment.TestAddingWrongPaymentMethod"></class>-->
-<!--            <class name="us.piit.health.TestHealthServices"></class>-->
-<!--            <class name="us.piit.menu.TestPetSuppliesInShopProducts"></class>-->
-<!--            <class name="us.piit.menu.TestBeautySuppliesInShopProducts"></class>-->
+            <class name="us.piit.signup.TestCreateAccount"></class>
+            <class name="us.piit.login.TestLoginWithWrongCredentials"></class>
+            <class name="us.piit.login.TestLoginWithCorrectCredentials"></class>
+            <class name="us.piit.logout.TestLogOut"></class>
+            <class name="us.piit.searchproducts.TestSeachTopSellerItem"></class>
+            <class name="us.piit.cart.TestAddingProductToCart"></class>
+            <class name="us.piit.cart.TestRemoveProductFromCart"></class>
+            <class name="us.piit.vacinneoptions.TestVaccineScheduling"></class>
+            <class name="us.piit.profile.TestUpdatPersonalInfo"></class>
+            <class name="us.piit.coupons.TestCouponsOptions"></class>
+            <class name="us.piit.chat.TestPharmacyChat"></class>
+            <class name="us.piit.payment.TestAddingWrongPaymentMethod"></class>
+            <class name="us.piit.health.TestHealthServices"></class>
+            <class name="us.piit.menu.TestPetSuppliesInShopProducts"></class>
+            <class name="us.piit.menu.TestBeautySuppliesInShopProducts"></class>
             <class name="us.piit.career.TestSigningUpForJobAlerts"></class>
-<!--            <class name="us.piit.menu.TestMedicinesInShopProducts"></class>-->
-<!--            <class name="us.piit.menu.TestVitaminesInShopProduct"></class>-->
-<!--            <class name="us.piit.menu.TestHomeHealthCareInShopProducts"></class>-->
-<!--            <class name="us.piit.menu.TestHomeGoodsInShopProducts"></class>-->
+            <class name="us.piit.menu.TestMedicinesInShopProducts"></class>
+            <class name="us.piit.menu.TestVitaminesInShopProduct"></class>
+            <class name="us.piit.menu.TestHomeHealthCareInShopProducts"></class>
+            <class name="us.piit.menu.TestHomeGoodsInShopProducts"></class>
 
 
 
