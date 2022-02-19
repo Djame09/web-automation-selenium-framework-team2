@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Facebook Automation" parallel="false">
+    <parameter name="useCloudEnv" value="false"></parameter>
+    <parameter name="cloudEnvName" value="browserstack"></parameter>
+    <parameter name="os" value="windows"></parameter>
+    <parameter name="os_version" value="98"></parameter>
+    <parameter name="browserName" value="chrome"></parameter>
+    <parameter name="browserVersion" value="98"></parameter>
+    <parameter name="url" value="https://www.facebook.com"></parameter>
+
+    <test name="Facebook test">
+        <classes>
+                        <class name="us.piit.menu.TestCreateEvent"></class>
+            <class name="us.piit.menu.TestCreateStory"></class>
+                       <class name="us.piit.menu.TestCreateGroup"></class>
+                        <class name="us.piit.loginsignup.TestLogIn"></class>
+                       <class name="us.piit.search.TestSearch"></class>
+            <class name="us.piit.profil.TestProfilFunctional"></class>
+            <class name="us.piit.search.TestFindGroup"></class>
+            <class name="us.piit.marketplace.TestMarketPlace"></class>
+            <class name="us.piit.game.TestGameVideos"></class>
+            <class name="us.piit.marketplace.TestAddToCart"></class>
+            <class name="us.piit.marketplace.TestRemoveFromCart"></class>
+            <class name="us.piit.marketplace.TestSetACustomBuyerMessage"></class>
+
+
+
+        </classes>
+    </test>
+</suite>
